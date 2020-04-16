@@ -2,7 +2,7 @@ def using_include(array, element)
   array.include?(element)
 end
 
-def using_sort(array)  (alphabetizes and makes a copy. arr = arr.sort )
+def using_sort(array)
   array.sort
 end
 
